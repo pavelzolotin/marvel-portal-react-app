@@ -6,7 +6,6 @@ import ErrorMessage from '../errorMessage/ErrorMessage';
 
 import '../pages/singleComicPage.scss';
 import xMen from '../../img/x-men.png';
-import Skeleton from '../skeleton/Skeleton';
 
 const SingleComicPage = () => {
     const {comicID} = useParams();
